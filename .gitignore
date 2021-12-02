@@ -1,0 +1,6 @@
+srelib.yaml
+*.egg-info
+__pycache__
+.idea
+dist/
+bin/kahoot/
